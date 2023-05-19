@@ -1,0 +1,14 @@
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\bin\Debug\netcoreapp3.1\ToDoAppAyoNew.exe
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\bin\Debug\netcoreapp3.1\ToDoAppAyoNew.deps.json
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\bin\Debug\netcoreapp3.1\ToDoAppAyoNew.runtimeconfig.json
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\bin\Debug\netcoreapp3.1\ToDoAppAyoNew.runtimeconfig.dev.json
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\bin\Debug\netcoreapp3.1\ToDoAppAyoNew.dll
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\bin\Debug\netcoreapp3.1\ToDoAppAyoNew.pdb
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.csproj.AssemblyReference.cache
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.AssemblyInfoInputs.cache
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.AssemblyInfo.cs
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.csproj.CoreCompileInputs.cache
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.dll
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.pdb
+C:\Users\Daramola.A\Desktop\ToDoAppAyoNew\obj\Debug\netcoreapp3.1\ToDoAppAyoNew.genruntimeconfig.cache
